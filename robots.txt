@@ -1,0 +1,12 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://abatouyu.github.io/assets/sitemap_index.xml
+Sitemap: https://abatouyu.github.io/css/sitemap_index.xml
+Sitemap: https://abatouyu.github.io/data/sitemap_index.xml
+Sitemap: https://abatouyu.github.io/files/sitemap_index.xml
+Sitemap: https://abatouyu.github.io/fonts/sitemap_index.xml
+Sitemap: https://abatouyu.github.io/images/sitemap_index.xml
+Sitemap: https://abatouyu.github.io/plugins/sitemap_index.xml
+Sitemap: https://abatouyu.github.io/scripts/sitemap_index.xml
+Sitemap: https://abatouyu.github.io/themes/sitemap_index.xml
